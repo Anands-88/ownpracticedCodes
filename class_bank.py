@@ -1,6 +1,6 @@
-class Bank_account:
-
-    def __init__(self,name, money):
+ class Bank_account: 
+ 
+    def __init__(self,name, money): 
         self.name = name
         self.money = money
     
